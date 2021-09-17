@@ -1,0 +1,49 @@
+---
+title: "CV Veronica Judson"
+output: html_document
+---
+# **Name**: Veronica Judson
+
+# Department address: Department of Political Science | 1050 Bascom Mall
+
+# Email address: *vjudson@wisc.edu*
+
+# Website: *https://polisci.wisc.edu/*
+
+# Education 
+* Univieristy of Wisconsin - Madison | Political Science, PhD, Expected 2026
+* University of North Carolina - Asheville | BA in Mathematics: Statistics, Minor: Political Science Spring 2021
+
+# Research experience:
+* Student Intern, Metric Geometry and Gerrymandering   Group under Dr. Moon Duchin Participated in an intensive training session for graduate and undergraduate students to develop skills in data wrangling, data cleaning, GIS, Python, and GeoPandas for voting rights, gerrymandering, and election projects around the country. Coded and cleaned precinct data at the county level, and election data at the state level for counties in Alabama and Louisiana, and digitized counties for Illinois in QGIS, for the lab's website, *districtr.org*.
+
+* University of North Carolina- Asheville, Asheville, NC	August 2020 to Current
+Undergraduate Research, Societal Violence Scale under Dr. Linda Cornett Analyzed the annual State Department Human Rights Reports to measure physical integrity abuses committed by non-state actors for 201countries. As a coder, I collected data needed for the reports and graded each country in different victim and perpetrator categories, as well as providing each country with an overall score. The purpose was to compile quantitative measurement score for each country to mark improvement for every country regarding non-state physical abuses. 
+
+
+# Teaching experience: 
+* Tutor, Mathematics Department  Tutored in Introductory Statistics, Introductory Mathematics, Quantitative Literacy, Humanities and Social Sciences. Created a nurturing, and supportive learning environment for individual and small group tutoring sessions.  Worked with fellow students to strengthen math proficiency, study habits, test-taking skills, and time management.  
+
+# Awards and fellowships
+* UNCA Honors Program	2018-2021
+Completed 21 credit hours of honors level courses and course projects. 
+
+* UNCA Dean’s List | 2018-2021
+The Dean’s list honors students who complete a full-time class load and maintained a GPA between 3.5-3.99.  
+
+* Southwestern Community College Student of Distinction	2018. This award acknowledges students at SCC who exceled academically, were active on campus and in the community, and demonstrated leadership qualities, and a commitment to goals.  
+
+* NC Community College System Academic Excellence Award	2017
+One student from each community college is selected annually to receive this award to honor academic achievements.  
+
+* NC Governor’s School Social Science Participant 	2017
+Governor’s School of North Carolina is a five-week summer program for intellectually gifted high school students to provide additional learning experience in a selected academic discipline.  I was selected to represent my region and attended as a social science student.   
+
+
+# Service/volunteer work
+* University of North Carolina- Asheville	2018, 2019,  2020: Hands On: The Volunteer Center of United Way of Asheville and Buncombe County.
+
+# Professional work experience
+* University of North Carolina- Asheville	April 2019 to Current Office Supervisor, Outdoor Programs 
+Facilitate office tasks: coordinated staff schedule, attendance, and subbing; led office trainings and meetings, delegated tasks to office staff; ensured upkeep of inventory and office equipment, finances, and receipt book; attended weekly supervisor meetings.  Organized and led outdoor trips such as backpacking, stand-up paddle boarding, biking, and hiking.  
+
