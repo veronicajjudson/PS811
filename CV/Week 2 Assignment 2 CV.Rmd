@@ -1,0 +1,55 @@
+---
+name: Veronica 
+surname: Judson
+position: "PhD Student"
+address: "University of Wisconsin Madison"
+phone: 828-508-0936
+email: "vjudson@wisc.edu"
+github: veronicajjudson
+linkedin: Veronica Judson
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::hyndman
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Professional Training
+
+ * Wilderness First Responder Certification 
+Landmark Learning, Cullowhee, NC, December 2019
+
+ * CPR and Adult First Aid Certification 
+Landmark Learning, Cullowhee, NC, December 2019
+
+ * NEXT AVL, August 2019- May 2020 
+Selected to represent UNCA as a mentee in a mentoring program with other local universities in Western North Carolina. Partnered with a professional in the Asheville area to enhance my workplace and networking skills.  
+
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Master of Mathematics: Statistics", "2021", "University of North Carolina Asheville", "Asheville, North Carolina"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Nobel Prizes
+
+```{r}
+tribble(
+  ~Year, ~Type, ~Desc,
+  2026, "Political Science", "Awarded for her exemplory work in being a badass student"
+) %>% 
+  brief_entries(
+    glue::glue("Nobel Prize in {Type}"),
+    Year, 
+    Desc
+  )
+```
+
